@@ -1,0 +1,3 @@
+This is where u're build .json will be saved. 
+Please do not change the repository name. 
+Read the full README.md file before use.
